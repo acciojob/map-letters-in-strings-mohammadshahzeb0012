@@ -1,0 +1,4 @@
+{
+  "testRepo": "map-letters-in-strings-solution",
+  "pathToFile": "cypress/integration/tests/test.spec.js"
+}
